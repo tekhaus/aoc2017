@@ -1,4 +1,2 @@
-# aoc2017
-Advent of Code 2017
-
-nah
+my solutions to 25 days of code
+http://adventofcode.com/2017
